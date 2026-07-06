@@ -18,6 +18,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		CB0784312FFBF3D4002FC742 /* assets */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = assets;
+			sourceTree = "<group>";
+		};
 		CBAA4AC02FF419CB00669E46 /* ScrollViewReaders */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = ScrollViewReaders;
@@ -39,6 +44,7 @@
 		CBAA4AB52FF419CB00669E46 = {
 			isa = PBXGroup;
 			children = (
+				CB0784312FFBF3D4002FC742 /* assets */,
 				CBAA4AD92FF41A7100669E46 /* .gitignore */,
 				CBAA4AD52FF419FF00669E46 /* README.md */,
 				CBAA4AC02FF419CB00669E46 /* ScrollViewReaders */,
@@ -70,6 +76,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				CB0784312FFBF3D4002FC742 /* assets */,
 				CBAA4AC02FF419CB00669E46 /* ScrollViewReaders */,
 			);
 			name = ScrollViewReaders;
